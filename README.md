@@ -4,11 +4,11 @@ Olá, eu sou o João Gabriel, e minha paixão é tecnologia e educação. Atrav�
 
 ## Conecte-se comigo 📱
 
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jooao-gabriell-950139215/)
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogabrielmiranda/)
 
 ## Estatísticas do GitHub 📊
 
-![Estatísticas do GitHub de João Gabriel](https://github-readme-stats.vercel.app/api?username=Joaozin01&show_icons=true&theme=dracula&count_private=true)
+![Estatísticas do GitHub de João Gabriel](https://github-readme-stats.vercel.app/api?username=joao-gabr&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que uso no dia a dia 💻
 
@@ -24,6 +24,6 @@ Aqui estão algumas das tecnologias que são parte do meu dia a dia de desenvolv
 
 Aqui estão as linguagens de programação que mais utilizo nos meus projetos:
 
-![Linguagens Mais Usadas por Joaozin01](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaozin01&theme=blue-green).
+![Linguagens Mais Usadas por joao-gabr](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-gabr&theme=blue-green).
 
 Fique à vontade para explorar meus projetos e entrar em contato se quiser colaborar ou aprender mais sobre tecnologia e programação! 😊🚀
